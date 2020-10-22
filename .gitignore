@@ -1,0 +1,5 @@
+/venv
+/__pycache__
+/.vscode
+geckodriver.log
+driver_cookies.pkl
